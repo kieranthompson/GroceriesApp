@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_f20364a0dd864fe2948ef15fb02c005e18aecfef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_5e59bb4438a94a12510230613fa256e9fd54b565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_4d25e5e3af88df8b53b0de79c37d6b93c003a3dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_303aac7714b49983104873e4264a20a8f9655899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_672eb6e27b6c6ba2d25b4b0359caaabef301902e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_be1fa035ed706c6a74d13582f477eb621b100cd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0366b761ae7f79749c685f953a1f9ced2e166de0">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_8d8c5dea6e43d4025885af0f2352ffd4b3808757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_80cb42be827f548a41dcf86cb8f256294a0faa27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_60f104ea19c5b3c468118fec1f787ab3bc1aaf09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_3fbd833149b4b8a9151938a28a311c6a8ebffd97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_cd09921643202acaa065ed48fadf0e1cdcd4259b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_5da62a9804e721e7f9635424cb7796758dfc8ed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_075012b4d61fdd1f97387be6575d2b3d116caa7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_c80a58af53f79aa7422d34c956a73b4f2925f4be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries-runtime-unspecified_12577afd2d142e883099660a857a8ddaab8adbb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kieran/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_7282c595e73e1cec177ea583cc95928e5e8ac896.jar" />
+    </item>
+
+</items>

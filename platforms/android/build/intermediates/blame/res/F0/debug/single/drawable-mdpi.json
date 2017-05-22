@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/unchecked.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/unchecked.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/nonselected.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/nonselected.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/checked_white.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/checked_white.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/apple.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/apple.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/menu.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/menu.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo_login.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/logo_login.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/checked.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/checked.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/recent.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/recent.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/add.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/delete.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/delete.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo_signup.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/logo_signup.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/banana.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/banana.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/pear.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/pear.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/selected.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/selected.png"
+    },
+    {
+        "merged": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/unchecked_white.png",
+        "source": "/home/kieran/Documents/projects/nativescript-projects/HelloWorld/Groceries/platforms/android/src/main/res/drawable-mdpi/unchecked_white.png"
+    }
+]
